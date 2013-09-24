@@ -8,16 +8,16 @@ html {
 body {
     font: 28px/44px 'Noto Sans', "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
     font-family: 'Noto Sans', sans-serif;
-	font-weight: 200;
+	font-weight: 100;
     margin: 0;
 }
 
 a {
-    font-weight: 200;
+    font-weight: 100;
 }
 
 a:link, a:visited {
-    font-weight: 600;
+    font-weight: 400;
 	text-decoration: none;
     text-transform: none;
     color: #0554db;
