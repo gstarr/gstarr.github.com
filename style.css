@@ -11,11 +11,12 @@ body {
 }
 
 a {
-    font-weight: 700;
+    font-weight: 300;
 }
 
 a:link, a:visited {
-    text-decoration: none;
+    font-weight: 500;
+	text-decoration: none;
     text-transform: none;
     color: #0554db;
     -webkit-transition:color 200ms ease-in-out;
