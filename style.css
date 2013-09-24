@@ -5,13 +5,13 @@ html {
 }
 
 body {
-    font: 28px/44px 'Noto Sans', "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-    font-weight: 700;
+    font: 28px/44px 'Noto Sans', "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+    font-weight: 100;
     margin: 0;
 }
 
 a {
-    font-weight: 100;
+    font-weight: 700;
 }
 
 a:link, a:visited {
