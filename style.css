@@ -13,11 +13,8 @@ body {
 }
 
 a {
-<<<<<<< HEAD
     font-weight: 200;
-=======
-    font-weight: 500;
->>>>>>> acde9c856659f97b1fd3c8d33f4650de68f93843
+
 }
 
 a:link, a:visited {
