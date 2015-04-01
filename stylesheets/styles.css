@@ -1,8 +1,10 @@
+@charset "UTF-8";
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:100,400);
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:28px/1.5 'Noto Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
 }
@@ -252,4 +254,7 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+@media only screen and (max-device-width: 480px) { 
+    body { -webkit-text-size-adjust:200%; } /* increase the base font size on landscape phones */
 }
