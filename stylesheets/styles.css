@@ -256,13 +256,15 @@ footer {
   }
 }
 
+/*establishes mobile interface separate from desktop interface
+*/
 @media only screen and (max-device-width: 480px) {
   html {
     height: 100%;
     min-height: 100%;
 }
 header {
-	visibility:hidden;
+	display:none;
 }
 body {
     font: 28px/44px 'Noto Sans', "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
