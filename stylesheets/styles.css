@@ -4,7 +4,7 @@
 
 body {
   padding:50px;
-  font:18px/1.5 'Noto Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:16px/1.5 'Noto Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
 }
@@ -254,7 +254,4 @@ footer {
     font-size:12pt;
     color:#444;
   }
-}
-@media only screen and (max-device-width: 480px) { 
-    body { -webkit-text-size-adjust:200%; } /* increase the base font size on landscape phones */
 }
