@@ -257,7 +257,7 @@ footer {
 }
 
 /*establishes mobile interface separate from desktop interface
-*/
+
 @media only screen and (max-device-width: 480px) {
   html {
     height: 100%;
@@ -298,3 +298,4 @@ a:hover {
     float: left;
 }
 	}
+*/
