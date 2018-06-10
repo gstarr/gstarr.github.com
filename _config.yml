@@ -1,10 +1,10 @@
 # Site settings
-title:       Graham Starr | Projects and Portfolio
+title:       Graham Starr - Special Projects Editor
 email:       hello@gstarr.me
 author:      Graham Starr
 description: "Graham Starr is a journalist and editor making things with art and code. This is his portfolio."
-baseurl:     "/projects"
-url:         "http://gstarr.me/projects"
+baseurl:     "/"
+url:         "http://gstarr.me/"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -48,7 +48,7 @@ show_all_social:
 
 # Post sharing icons
 show_sharing_icons: false
-share_text: 'Share this plz!'
+share_text: ' '
 # Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: true
