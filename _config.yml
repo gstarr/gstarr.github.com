@@ -1,0 +1,70 @@
+# Site settings
+title:       Graham Starr | Projects and Portfolio
+email:       hello@gstarr.me
+author:      Graham Starr
+description: "Graham Starr is a journalist and editor making things with art and code. This is his portfolio."
+baseurl:     "/projects"
+url:         "http://gstarr.me/projects"
+date_format: "%b %-d, %Y"
+
+# Google services
+google_analytics: UA-57711230-4
+google_verification: 
+
+# Optional features
+animated:             false
+show_related_posts:   true
+show_post_footers:    false
+show_social_icons:    true
+ajaxify_contact_form: false
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
+
+# Facebook Comments plugin
+# (leave blank to disable Facebook Comments, otherwise set it to true)
+facebook_comments: 
+facebook_appid: 
+facebook_comments_number: 10
+
+# Social icons
+github_username: 
+dribbble_username: 
+lastfm_username: 
+instagram_username:
+bitbucket_username: 
+stackoverflow_id: 
+twitter_username: grahamstarr
+facebook_username: 
+google_plus_id: 
+linkedin_username: grahamstarr
+angellist_username: 
+medium_id: 
+bitcoin_url: 
+paypal_url: 
+flattr_button:
+show_all_social: 
+
+# Post sharing icons
+show_sharing_icons: false
+share_text: 'Share this plz!'
+# Change to 'true' to enable individual icons
+share_facebook: true
+share_twitter: true
+share_googleplus: false
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
+
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data', 'no_intra_emphasis', 'fenced_code_blocks', 'strikethrough', 'highlight', 'underline', 'footnotes']
+permalink:    pretty
+paginate:     10
+sass:
+  compressed: true
