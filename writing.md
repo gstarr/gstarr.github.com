@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <center>Words</center>
-permalink: /writing/
+permalink: /words/
 ---
 
 *These are <b>selected works</b>. To see more, please <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">contact me</a>.*
