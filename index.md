@@ -2,6 +2,8 @@
 layout: default
 title: 
 ---
+<META http-equiv="refresh" content="0;URL=http://gstarr.me/projects">
+
 
 ## Hello!   
 
