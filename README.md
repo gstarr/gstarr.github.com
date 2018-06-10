@@ -1,3 +1,3 @@
-# Projects
+# gstarr.github.com
 
-Building a projects page and portfolio
+This is my website.
