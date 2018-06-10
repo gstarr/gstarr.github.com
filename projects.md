@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  <center> Miscellaneous Projects </center>
+title:  <center> Projects </center>
 permalink: /misc/
 ---
 
